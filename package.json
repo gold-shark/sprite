@@ -1,0 +1,17 @@
+{
+  "name": "sprite",
+  "version": "1.0.0",
+  "description": "自动生成雪碧图(@1x/@2x)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GuoChengJun",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp.spritesmith": "^6.12.1",
+    "merge-stream": "^2.0.0",
+    "spritesmith": "^3.4.0"
+  }
+}
